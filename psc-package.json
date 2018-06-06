@@ -1,6 +1,6 @@
 {
     "name": "purescript-react-dom",
-    "set": "psc-0.10.1",
+    "set": "psc-0.12.0-btford",
     "source": "https://raw.githubusercontent.com/purescript/package-sets/psc-0.10.1/packages.json",
     "depends": [
       "arrays",
@@ -8,8 +8,8 @@
       "control",
       "datetime",
       "distributive",
-      "dom",
-      "eff",
+      "web-dom",
+      "effect",
       "eff-functions",
       "either",
       "enums",
